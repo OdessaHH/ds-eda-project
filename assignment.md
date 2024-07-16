@@ -17,7 +17,7 @@ analysis techniques and presentation of results to a client.
 
 # The Tasks
 
-1. Create a new repo using this [template](hhttps://github.com/neuefische/ds-eda-project-template).
+1. Create a new repo using this [template](https://github.com/neuefische/ds-eda-project-template).
 
 2. Through EDA/statistical analysis above please come up with **AT LEAST 3 insights** regarding the overall data. One should be geographical.
 
